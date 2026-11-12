@@ -170,3 +170,18 @@ s03 Permission → 在工具执行之前加一道门：这个操作安全吗？�
 
 
 <!-- translation-sync: zh@v1, en@v0, ja@v0 -->
+
+
+
+
+
+
+
+**==prompt中文==**
+
+
+
+1. 读取 `README.md` 文件，并告诉我这个项目是做什么的。
+2. 创建一个名为 `test.py` 的文件，让它打印 `"hello"`，然后重新读取该文件以检查内容。
+3. 查找当前目录下的所有 Python 文件。
+4. 读取 `README.md` 和 `requirements.txt` 两个文件，然后创建一个总结文件。
